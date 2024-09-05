@@ -35,5 +35,6 @@ This Power BI dashboard provides an interactive and user-friendly tool for analy
 
 The dashboard can be reviewed and interacted with through the provided [Financial_data_analysis.pbix](./Financial_data_analysis.pbix) in Power BI.
 
+![Financial_report_dashboard](https://github.com/user-attachments/assets/c5387cba-fe4d-4a6f-91d5-7860ae4bf079)
 
 
