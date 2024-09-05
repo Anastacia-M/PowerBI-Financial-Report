@@ -4,6 +4,7 @@
  - [Data Sources](#data-sources)
  - [Exploratory Data Analysis](#exploratory-data-analysis)
  - [Results](#results-and-findings)
+ - [Dashboard](#dashboard)
    
 ### Project Overview
 This financial data analysis project aims to build a comprehensive overview of profit and sales performance across various products and business segments from January 2013 to December 2014. The primary goal was to create an interactive and visually compelling report in Power BI, allowing users to explore key financial metrics such as profit trends, regional performance, and product segmentation. The report helps stakeholders track performance and make data-driven decisions based on insights provided by the visualizations.
@@ -40,6 +41,7 @@ This Power BI dashboard provides an interactive and user-friendly tool for analy
 
 The dashboard can be reviewed and interacted with through the provided [Financial_data_analysis.pbix](./Financial_data_analysis.pbix) in Power BI.
 
+### Dashboard
 ![Financial_report_dashboard](https://github.com/user-attachments/assets/c5387cba-fe4d-4a6f-91d5-7860ae4bf079)
 
 
