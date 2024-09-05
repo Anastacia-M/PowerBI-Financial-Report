@@ -42,7 +42,7 @@ The final Finance Report Dashboard contains several interactive visuals, which p
 This Power BI dashboard provides an interactive and user-friendly tool for analyzing financial performance across time, products, and regions. The report helps decision-makers identify high-performing regions and products while also showing trends in profitability over time. By using the dashboard’s filtering capabilities, users can drill down into specific segments and timeframes to make more informed business decisions.
 
 ### Dashboard
-The dashboard can be reviewed and interacted with through the provided [Financial_data_analysis.pbix](./Financial_data_analysis.pbix) in Power BI.
+The dashboard can be reviewed and interacted with through the provided [Financial_data_analysis.pbix](./Financial_data_analysis.pbix) in Power BI. A screenshot of the dashboard is provided below for reference.
 
 ![Financial_report_dashboard](https://github.com/user-attachments/assets/c5387cba-fe4d-4a6f-91d5-7860ae4bf079)
 
