@@ -16,10 +16,10 @@ The [Financial_Sample.xlsx](./Financial_Sample.xlsx) file was imported into Powe
 ### Exploratory Data Analysis
 The dashboard allows users to explore key questions related to financial performance:
 
-1) Profit Trends Over Time: Which months and years recorded the highest profits?<br />
-2) Regional Success: Which countries or regions contribute the most to overall profits?<br />
-3) Product & Segment Investment: Which products and business segments should the company continue to invest in for optimal returns?<br />
-4) Sales Distribution: How are sales distributed across different products and segments?<br />
+1) **Profit Trends Over Time:** Which months and years recorded the highest profits?<br />
+2) **Regional Success:** Which countries or regions contribute the most to overall profits?<br />
+3) **Product & Segment Investment:** Which products and business segments should the company continue to invest in for optimal returns?<br />
+4) **Sales Distribution:** How are sales distributed across different products and segments?<br />
 
 These guiding questions enable users to make informed business decisions by filtering and drilling down into the data.
 
