@@ -1,5 +1,10 @@
 # Power BI Financial Report
 
+ - [Project Overview](#project-overview)
+ - [Data Sources](#data-sources)
+ - [Exploratory Data Analysis](#exploratory-data-analysis)
+ - [Results](#results-and-findings)
+   
 ### Project Overview
 This financial data analysis project aims to build a comprehensive overview of profit and sales performance across various products and business segments from January 2013 to December 2014. The primary goal was to create an interactive and visually compelling report in Power BI, allowing users to explore key financial metrics such as profit trends, regional performance, and product segmentation. The report helps stakeholders track performance and make data-driven decisions based on insights provided by the visualizations.
 
