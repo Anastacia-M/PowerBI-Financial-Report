@@ -26,7 +26,14 @@ These guiding questions enable users to make informed business decisions by filt
 ### Results and Findings
 The final Finance Report Dashboard contains several interactive visuals, which provide key insights into the financial performance across different dimensions:
 
-Profit by Country (Map Visual): Displays profit data by geographical region, with larger bubbles indicating higher profits. This visual highlights key regions like Europe (France and Germany) as strong performers.
-Profit by Month and Year (Line Chart): Shows profit trends over time, clearly indicating that December 2014 was the most profitable month.
-Sales by Product and Segment (Stacked Column Chart): This chart compares the sales performance of various products across different segments (e.g., Channel Partners, Government, Small Business). For instance, the Paseo product and Small Business and Government segments are identified as key drivers of sales.
-Year Slicer: A slicer on the left allows users to filter the report by year and month, providing flexibility to analyze specific time periods.
+1) **Profit by Country (Map Visual):** Displays profit data by geographical region, with larger bubbles indicating higher profits. This visual highlights key regions like Europe (France and Germany) as strong performers.
+2) **Profit by Month and Year (Line Chart):** Shows profit trends over time, clearly indicating that December 2014 was the most profitable month.
+3) **Sales by Product and Segment (Stacked Column Chart):** This chart compares the sales performance of various products across different segments (e.g., Channel Partners, Government, Small Business). For instance, the Paseo product and Small Business and Government segments are identified as key drivers of sales.
+4) **Year Slicer:** A slicer on the left allows users to filter the report by year and month, providing flexibility to analyze specific time periods.
+
+This Power BI dashboard provides an interactive and user-friendly tool for analyzing financial performance across time, products, and regions. The report helps decision-makers identify high-performing regions and products while also showing trends in profitability over time. By using the dashboard’s filtering capabilities, users can drill down into specific segments and timeframes to make more informed business decisions.
+
+The dashboard can be reviewed and interacted with through the provided Finance Report Dashboard in Power BI.
+
+![Financial_report_dashboard](https://github.com/user-attachments/assets/6e9dd052-c90a-416c-874b-e13e3f3b3d2f)
+
