@@ -26,7 +26,7 @@ These guiding questions enable users to make informed business decisions by filt
 ### Results and Findings
 The final Finance Report Dashboard contains several interactive visuals, which provide key insights into the financial performance across different dimensions:
 
-1) **Profit by Country (Map Visual):** Displays profit data by geographical region, with larger bubbles indicating higher profits. This visual highlights key regions like Europe (France and Germany) as strong performers.
+1) **Profit by Country (Map Visual):** Displays profit data by geographical region, with bubbles indicating profits. This visual highlights key regions like Europe (France and Germany) and Canada as strong performers.
 2) **Profit by Month and Year (Line Chart):** Shows profit trends over time, clearly indicating that December 2014 was the most profitable month.
 3) **Sales by Product and Segment (Stacked Column Chart):** This chart compares the sales performance of various products across different segments (e.g., Channel Partners, Government, Small Business). For instance, the Paseo product and Small Business and Government segments are identified as key drivers of sales.
 4) **Year Slicer:** A slicer on the left allows users to filter the report by year and month, providing flexibility to analyze specific time periods.
