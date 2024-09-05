@@ -1,5 +1,7 @@
 # Power BI Financial Report
 
+## Table of Contents:
+
  - [Project Overview](#project-overview)
  - [Data Sources](#data-sources)
  - [Exploratory Data Analysis](#exploratory-data-analysis)
