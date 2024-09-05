@@ -11,7 +11,7 @@ The main dataset used in this analysis is the [Financial_Sample.xlsx](./Financia
 **Power BI Service:** Deployed to share the report for collaboration.
 
 ### Data Cleaning and Preparation
-The "Financial Sample.xlsx" file was imported into Power BI, and key transformations were applied to ensure data consistency. This included formatting columns like Units Sold and Segment, filtering out discontinued products, and renaming columns for clarity. A Calendar Table was created to facilitate time-based analysis, and relationships were established to ensure the data could be properly visualized across different dimensions. These steps set the foundation for building accurate and insightful reports.
+The [Financial_Sample.xlsx](./Financial_Sample.xlsx) file was imported into Power BI, and key transformations were applied to ensure data consistency. This included formatting columns like **Units Sold** and **Segment**, filtering out discontinued products, and renaming columns for clarity. A **Calendar Table** was created to facilitate time-based analysis, and relationships were established to ensure the data could be properly visualized across different dimensions. These steps set the foundation for building accurate and insightful reports.
 
 ### Exploratory Data Analysis
 The dashboard allows users to explore key questions related to financial performance:
