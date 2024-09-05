@@ -4,7 +4,7 @@
 This financial data analysis project aims to build a comprehensive overview of profit and sales performance across various products and business segments from January 2013 to December 2014. The primary goal was to create an interactive and visually compelling report in Power BI, allowing users to explore key financial metrics such as profit trends, regional performance, and product segmentation. The report helps stakeholders track performance and make data-driven decisions based on insights provided by the visualizations.
 
 ### Data Sources
-Financial Sample Workbook: The main dataset used in this analysis is the "Financial Sample.xlsx" file, which contains detailed records of profit, sales, product categories, business segments, and country-based performance.
+The main dataset used in this analysis is the [Financial_Sample.xlsx](./Financial_Sample.xlsx) file, which contains detailed records of profit, sales, product categories, business segments, and country-based performance.
 
 ### Tools
 **Power BI Desktop:** Used for data transformation, report creation, and visualization. <br />
